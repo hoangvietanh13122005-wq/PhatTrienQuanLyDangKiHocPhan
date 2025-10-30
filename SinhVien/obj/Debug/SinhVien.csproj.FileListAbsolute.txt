@@ -1,0 +1,11 @@
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\bin\Debug\SinhVien.exe.config
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\bin\Debug\SinhVien.exe
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\bin\Debug\SinhVien.pdb
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\bin\Debug\Guna.UI2.dll
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\obj\Debug\SinhVien.csproj.AssemblyReference.cache
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.cache
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\obj\Debug\SinhVien.csproj.CoreCompileInputs.cache
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\obj\Debug\SinhVien.csproj.Up2Date
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\obj\Debug\SinhVien.exe
+D:\Documents\TAI LIEU HOC\PTUD2025\PTQLDKHP\SinhVien\obj\Debug\SinhVien.pdb
