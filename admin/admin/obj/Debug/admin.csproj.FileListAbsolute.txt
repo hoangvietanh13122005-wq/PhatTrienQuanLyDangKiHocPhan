@@ -1,0 +1,12 @@
+D:\PTUD2025\BTL\project\admin\admin\bin\Debug\admin.exe.config
+D:\PTUD2025\BTL\project\admin\admin\bin\Debug\admin.exe
+D:\PTUD2025\BTL\project\admin\admin\bin\Debug\admin.pdb
+D:\PTUD2025\BTL\project\admin\admin\bin\Debug\Guna.UI2.dll
+D:\PTUD2025\BTL\project\admin\admin\obj\Debug\admin.csproj.AssemblyReference.cache
+D:\PTUD2025\BTL\project\admin\admin\obj\Debug\admin.frmAdmin.resources
+D:\PTUD2025\BTL\project\admin\admin\obj\Debug\admin.Properties.Resources.resources
+D:\PTUD2025\BTL\project\admin\admin\obj\Debug\admin.csproj.GenerateResource.cache
+D:\PTUD2025\BTL\project\admin\admin\obj\Debug\admin.csproj.CoreCompileInputs.cache
+D:\PTUD2025\BTL\project\admin\admin\obj\Debug\admin.csproj.Up2Date
+D:\PTUD2025\BTL\project\admin\admin\obj\Debug\admin.exe
+D:\PTUD2025\BTL\project\admin\admin\obj\Debug\admin.pdb
